@@ -1,0 +1,2 @@
+TaskManager.exe Information: 0 : [INFO] Логирование настроено. Логи будут записаны в файл: taskmanager_log_20260209_133740.txt
+TaskManager.exe Information: 0 : [INFO] Программа TaskManager запущена.

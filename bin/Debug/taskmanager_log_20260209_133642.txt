@@ -1,0 +1,6 @@
+TaskManager.exe Information: 0 : [INFO] Логирование настроено. Логи будут записаны в файл: taskmanager_log_20260209_133642.txt
+TaskManager.exe Information: 0 : [INFO] Программа TaskManager запущена.
+[TRACE] Начало операции AddTask.
+[TRACE] Проверка введённого названия: "sdfgsdf"
+TaskManager.exe Information: 0 : [INFO] Задача "sdfgsdf" успешно добавлена.
+[TRACE] Конец операции AddTask.

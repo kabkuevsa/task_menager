@@ -1,0 +1,12 @@
+TaskManager.exe Information: 0 : [INFO] Программа TaskManager запущена.
+    DateTime=2026-02-09T10:43:05.7255800Z
+[TRACE] Начало операции AddTask.
+[TRACE] Проверка введённого названия: "привет"
+TaskManager.exe Information: 0 : [INFO] Задача "привет" успешно добавлена.
+    DateTime=2026-02-09T10:43:13.2194335Z
+[TRACE] Конец операции AddTask.
+[TRACE] Начало операции ListTasks.
+[TRACE] Количество задач в списке: 1
+TaskManager.exe Information: 0 : [INFO] Всего задач: 1
+    DateTime=2026-02-09T10:43:20.0512340Z
+[TRACE] Конец операции ListTasks.

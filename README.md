@@ -1,26 +1,32 @@
 Меню:
-<img width="1294" height="512" alt="image" src="https://github.com/user-attachments/assets/6281d946-fbef-4971-9316-18e7dea1d4fd" />
+<img width="1602" height="461" alt="image" src="https://github.com/user-attachments/assets/82e4270d-7e0f-4925-b1b6-8896e139ba27" />
+
 
 
 
 каманда add: 
-<img width="1432" height="303" alt="image" src="https://github.com/user-attachments/assets/e670d545-0851-4cdd-ae0a-1e5114b7e94a" />
+<img width="1746" height="264" alt="image" src="https://github.com/user-attachments/assets/4d7a2ca3-d41f-4754-8825-d636f9fec774" />
+
 
 
 
 каманда list:
-<img width="1083" height="321" alt="image" src="https://github.com/user-attachments/assets/aedf7737-727b-4347-904d-80be2de75edb" />
+<img width="1333" height="218" alt="image" src="https://github.com/user-attachments/assets/4a003686-d95b-4803-b1ac-a56f7c35c5bb" />
+
 
 
 
 каманда remove:
-<img width="1400" height="309" alt="image" src="https://github.com/user-attachments/assets/4b7531e1-5c69-468e-a9a1-bd2891c5ae9e" />
+<img width="1704" height="263" alt="image" src="https://github.com/user-attachments/assets/c7a218c6-7237-4111-92b2-7bba6ad08c50" />
+
 
 
 камада exit:
-<img width="1266" height="244" alt="image" src="https://github.com/user-attachments/assets/d9ea2456-f03e-4ea0-ac63-567332ee90d4" />
+<img width="1570" height="175" alt="image" src="https://github.com/user-attachments/assets/6eee7d2b-ccb5-4214-a799-335c9688fc54" />
+
 
 
 каманда help:
-<img width="792" height="371" alt="image" src="https://github.com/user-attachments/assets/49aa97e7-ca51-4bfb-8ab0-842e05b10545" />
+<img width="725" height="373" alt="image" src="https://github.com/user-attachments/assets/b8c1a1e2-75a3-4018-80c3-7833cbc4cf71" />
+
 

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 
 namespace TaskManager
@@ -7,12 +7,11 @@ namespace TaskManager
     {
         static void Main(string[] args)
         {
-            // Настраиваем логирование System.Diagnostics для записи в консоль
-            SetupConsoleLogging();
+            // Настраиваем логирование с кастомным форматом
+            SetupCustomLogging();
 
             // Старт программы
-            Console.WriteLine("[INFO] Программа TaskManager запущена.");
-            Trace.TraceInformation("Программа TaskManager запущена.");
+            Trace.TraceInformation($"{DateTime.Now:HH:mm:ss} [INFO] Программа TaskManager запущена.");
 
             Console.WriteLine("=== Task Manager ===");
             Console.WriteLine("Доступные команды:");
@@ -50,8 +49,7 @@ namespace TaskManager
                         break;
 
                     case "exit":
-                        Console.WriteLine("[INFO] Завершение работы программы.");
-                        Trace.TraceInformation("Завершение работы программы.");
+                        Trace.TraceInformation($"{DateTime.Now:HH:mm:ss} [INFO] Завершение работы программы.");
                         Console.WriteLine("Завершение работы...");
                         isRunning = false;
                         break;
@@ -66,22 +64,20 @@ namespace TaskManager
                 }
             }
 
-            // Закрываем трассировку
             Trace.Flush();
-
             Console.WriteLine("Нажмите любую клавишу для выхода...");
             Console.ReadKey();
         }
 
-        static void SetupConsoleLogging()
+        static void SetupCustomLogging()
         {
-            // Очищаем стандартные слушатели
+            
             Trace.Listeners.Clear();
 
-            // Добавляем слушатель для вывода в консоль
+           
             Trace.Listeners.Add(new ConsoleTraceListener());
 
-            // Настраиваем автоматическую запись
+            
             Trace.AutoFlush = true;
         }
 

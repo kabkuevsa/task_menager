@@ -1,32 +1,28 @@
+Реализовано более детальное логирование:
+
 Меню:
-<img width="1602" height="461" alt="image" src="https://github.com/user-attachments/assets/82e4270d-7e0f-4925-b1b6-8896e139ba27" />
+<img width="915" height="373" alt="image" src="https://github.com/user-attachments/assets/57853c23-d857-4371-a860-746d0413b69e" />
+
+Каманда add:
+<img width="2309" height="301" alt="image" src="https://github.com/user-attachments/assets/8419906e-f799-4917-b6f7-ab85b323f0fe" />
+
+Каманда  remove:
+
+<img width="2316" height="289" alt="image" src="https://github.com/user-attachments/assets/a563ead7-8ff3-4858-bf33-2d7db90d99c0" />
+
+
+Каманда list:
+
+<img width="2098" height="192" alt="image" src="https://github.com/user-attachments/assets/a79442ff-8155-4c24-9f02-cf278450a1ed" />
+
+
+Каманда exit:
+
+<img width="1019" height="185" alt="image" src="https://github.com/user-attachments/assets/1cc81c08-86d2-4936-91bd-e22394104f8c" />
 
 
 
 
-каманда add: 
-<img width="1746" height="264" alt="image" src="https://github.com/user-attachments/assets/4d7a2ca3-d41f-4754-8825-d636f9fec774" />
+Структурированный код:
 
-
-
-
-каманда list:
-<img width="1333" height="218" alt="image" src="https://github.com/user-attachments/assets/4a003686-d95b-4803-b1ac-a56f7c35c5bb" />
-
-
-
-
-каманда remove:
-<img width="1704" height="263" alt="image" src="https://github.com/user-attachments/assets/c7a218c6-7237-4111-92b2-7bba6ad08c50" />
-
-
-
-камада exit:
-<img width="1570" height="175" alt="image" src="https://github.com/user-attachments/assets/6eee7d2b-ccb5-4214-a799-335c9688fc54" />
-
-
-
-каманда help:
-<img width="725" height="373" alt="image" src="https://github.com/user-attachments/assets/b8c1a1e2-75a3-4018-80c3-7833cbc4cf71" />
-
-
+<img width="3726" height="297" alt="image" src="https://github.com/user-attachments/assets/40742718-1c04-49ef-a518-09501301cf3c" />
